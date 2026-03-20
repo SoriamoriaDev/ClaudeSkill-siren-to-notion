@@ -1,0 +1,11 @@
+{
+  "Name": "nom",
+  "Address": "adresse",
+  "Employees": "tranche_effectif_midpoint",
+  "Code NAF": "code_naf",
+  "ID": "siren",
+  "Revenue": "_empty",
+  "URL webiste": "_empty",
+  "URL LinkedIN": "_empty",
+  "Status": "_default:Not started"
+}
